@@ -21,5 +21,14 @@ This is the main source file for the elevator simulation. It contains the implem
 ### main.c
 This file contains the main function which drives the elevator simulation. It creates the necessary threads for each passenger and elevator, then joins all the threads to ensure they have completed their execution.
 
+## Compile and Run
+
+```
+gcc -o elevator main.c elevator.c -pthread
+```
+
+```
+./elevator
+```
 
 
