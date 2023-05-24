@@ -1,5 +1,6 @@
 # Elevator-Simulator
 This project is a multi-threaded simulation of an elevator system. It is intended to provide a realistic model of how elevators and passengers would interact in a multi-floor building, with each elevator and passenger operating in their own threads.
+
 ![ezgif com-video-to-gif](https://github.com/abhati27/Elevator-Simulator/assets/60200047/b54a516d-e50c-4d31-90ad-50b8bdf97586)
 
 
